@@ -300,6 +300,15 @@ form .btn-submit {
   }
 }
 
+@media screen and (max-width: 1440px) {
+  .home {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 10rem;
+  }
+}
+
 @media screen and (max-width: 1920px) {
   .home-container {
     padding-top: 7rem;
