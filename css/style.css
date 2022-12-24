@@ -61,7 +61,7 @@ body {
 
 /* Home */
 .home {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/WallpaperHome.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/WallpaperHome.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
